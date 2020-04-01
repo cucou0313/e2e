@@ -6,4 +6,4 @@
     可以添加新的待办事项
     可以删除事项
 
-### todolist的git：
+### todolist的git：https://github.com/cucou0313/todo_react
